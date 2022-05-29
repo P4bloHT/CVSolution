@@ -7,7 +7,7 @@
 //#include "pch.h" hay qye poner esto? avergiua esto
 
 #include "Creation_account.h"
-
+//aaaaaaaaaaaaaaaaaaaaaaaaa hola gente
 using namespace System;
 namespace CVModel {
     public ref class User {
